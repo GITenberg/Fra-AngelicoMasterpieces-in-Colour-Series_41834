@@ -1,0 +1,35 @@
+_repo: Fra-AngelicoMasterpieces-in-Colour-Series_41834
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41834-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Mason, James
+    gutenberg_agent_id: '41387'
+    url: http://www.gutenberg.org/2009/agents/41387
+  editor:
+    agent_name: Hare, T. Leman (Thomas Leman)
+    aliases:
+    - Hare, T. L. (Thomas Leman)
+    - Hare, Thomas Leman
+    birthdate: 1872
+    deathdate: 1935
+    gutenberg_agent_id: '41203'
+    url: http://www.gutenberg.org/2009/agents/41203
+description: ''
+gutenberg_bookshelf: Masterpieces in Colour
+gutenberg_issued: '2013-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41834'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Masterpieces in Colour
+subjects:
+- !lcc 'ND'
+- !lcsh 'Angelico, fra, approximately 1400-1455'
+title: Fra Angelico
+url: http://www.gutenberg.org/ebooks/41834
